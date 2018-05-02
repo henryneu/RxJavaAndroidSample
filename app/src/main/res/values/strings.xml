@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">RxAndroidSearch</string>
+    <string name="title_element">基本</string>
+    <string name="title_element_cute">5</string>
+    <string name="title_map">转换(MAP)</string>
+    <string name="title_zip">压合(ZIP)</string>
+    <string name="title_token_flatmap">Token(FlatMap)</string>
 </resources>

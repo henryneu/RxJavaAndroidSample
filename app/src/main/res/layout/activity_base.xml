@@ -45,7 +45,7 @@
         android:layout_centerInParent="true"
         android:visibility="gone" />
 
-    <include layout="@layout/layout_list_empty"
+    <include layout="@layout/layout_element"
         android:id="@+id/show_result_empty"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
